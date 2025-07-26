@@ -1,3 +1,17 @@
 git -> to see git installed , go to cmd and run "git"
 
 git add . -> add file changes to commit
+
+git add <file name>  ->adds one or more files to staging
+
+git reset <file name> -> removes one or more files from staging
+
+git status -> status of tracked and untracked files
+
+git branch -> list available branches
+
+git branch <branch name> -> create a new branch 
+
+git checkout <branch name> -> switches to different branch
+
+git revert/reset ->Hi
