@@ -14,4 +14,4 @@ git branch <branch name> -> create a new branch
 
 git checkout <branch name> -> switches to different branch
 
-git revert/reset ->Hi
+git revert/reset -> <command>
