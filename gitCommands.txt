@@ -1,0 +1,3 @@
+git -> to see git installed , go to cmd and run "git"
+
+git add . -> add file changes to commit
